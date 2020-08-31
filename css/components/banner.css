@@ -1,0 +1,17 @@
+/*unsplash.com website for backgroung image*/
+.banner{
+  background-image: linear-gradient(-235deg, rgb(0,0,0,-0.8) 0%, rgb(0,0,0,0.8) 90%), url(../../images/background.jpg);
+  color: rgb(50,50,50);
+  padding: 180px 0px;
+  background-size: cover;
+  background-position: center;
+}
+.banner h1{
+  font-size: 50px;
+}
+.banner h2{
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 1.8;
+  margin-bottom: 40px;
+}
